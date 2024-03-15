@@ -54,6 +54,10 @@ header {
     justify-content: center;
     align-items: center;
     
+nav {
+    margin-top:  0.5em;
+}
+
 nav > a { 
     text-decoration: none; 
     background-color: var(--purple-heart-600);
