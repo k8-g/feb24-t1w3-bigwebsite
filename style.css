@@ -49,18 +49,33 @@ header {
     height: 10dvh;
     width: 100dvw;
     text-align: center;
-    font-size: x-small;
-    display: flex;
+    display: flex; 
     flex-direction: column;
     justify-content: center;
     align-items: center;
     
+nav > a { 
+    text-decoration: none; 
+    background-color: var(--purple-heart-600);
+    color: white; 
+    padding: 0.25em;  
+    border-radius: 0.5em; 
+} 
+
+nav > a:hover {
+    background-color: var(--purple-heart-950);
 }
+
+
+} 
 footer {
     background-color: var(--purple-heart-400);
     height: 5dvh;
     width: 100dvw;
     text-align: center;
+    display: flex;
+    justify-content:  center;
+    align-items: center;
 }
 
 main {
@@ -101,4 +116,4 @@ header, footer {
 }
  */
 
- 
+  
