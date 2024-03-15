@@ -71,13 +71,13 @@ nav > a:hover {
 footer {
     background-color: var(--purple-heart-400);
     height: 5dvh;
-    width: 100dvw;
+    width: 100dvw; 
     text-align: center;
     display: flex;
     justify-content:  center;
     align-items: center;
-}
-
+} 
+ 
 main {
     min-height: 85dvh; 
     width: 100dvw;
@@ -109,6 +109,12 @@ main > img {
 main > p {
     font-size: small;
 }
+
+main > h1 {
+    text-align: center;
+}
+
+
 
 /*
 header, footer {
