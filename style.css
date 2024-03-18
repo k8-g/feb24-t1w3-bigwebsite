@@ -42,11 +42,12 @@ flex-direction: column;
 background-color: var(--purple-heart-100);
 justify-content: center;
 align-items: center; 
+margin: 0;
 }
 
 header {
     background-color: var(--purple-heart-400);
-    height: 15dvh;
+    height: 10dvh;
     width: 100dvw;
     text-align: center;
     display: flex; 
@@ -81,6 +82,7 @@ footer {
     display: flex;
     justify-content:  center;
     align-items: center;
+    
 } 
  
 main {
