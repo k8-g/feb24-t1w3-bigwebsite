@@ -2,7 +2,7 @@
 
 .projectPreview > img {
 	height: 20dvh;
-	border-radius: 2em;
+	border-radius: 1em;
 }
 
 .projectPreview {
@@ -24,14 +24,14 @@
 
 
 .projectPreview:hover {
-	border-radius: 0;
+	border-radius: 0.25em;
 }
 
 
 .projectPreview > a {
 	background-color: var(--purple-heart-200);
 	padding: 1em;
-	border-radius: 2em;
+	border-radius: 1em;
 }
 
 
@@ -43,7 +43,7 @@
 .projectPreview > section > a {
 	background-color: var(--purple-heart-200);
 	padding: 1em;
-	border-radius: 2em;
+	border-radius: 1em;
 	border: 2px solid white;
 }
 

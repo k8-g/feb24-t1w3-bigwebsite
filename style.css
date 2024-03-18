@@ -88,8 +88,9 @@ main {
  
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content:center;
     align-items: center;
+    margin-top: 0;
 }
 
 main > * {
@@ -104,23 +105,28 @@ main > a {
 main > img {
     height: 20dvh;
     width: 50dvw;
-    margin: 2em; 
+    margin: 1em; 
     background-color: var(--purple-heart-950);
     color: var(--purple-heart-100);
     object-fit: cover;
+    border-radius: 0.25em;
+    
+    
+
 }
 
 main > p {
     font-size: small;
+    margin: 5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 main > h1 {
     text-align: center;
 }
 
-.image {
-    border-radius: 5em;
-}
+
 
 
 /*
