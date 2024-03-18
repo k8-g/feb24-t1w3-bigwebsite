@@ -46,14 +46,14 @@ align-items: center;
 
 header {
     background-color: var(--purple-heart-400);
-    height: 10dvh;
+    height: 15dvh;
     width: 100dvw;
     text-align: center;
     display: flex; 
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 2em;
+    
     
 nav {
     margin-top:  0.5em;
