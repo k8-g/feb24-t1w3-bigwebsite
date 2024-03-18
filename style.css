@@ -118,6 +118,9 @@ main > h1 {
     text-align: center;
 }
 
+.image {
+    border-radius: 5em;
+}
 
 
 /*
