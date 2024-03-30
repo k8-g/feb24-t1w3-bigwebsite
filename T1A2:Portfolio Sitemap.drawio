@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-30T04:52:56.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="i3SCSgP8s_WqogckG6oE" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-30T04:58:56.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FUK66FOjLUluBhLh3eih" version="24.2.1" type="github">
   <diagram name="Page-1" id="1yRaigYc3yj3IqJBVuUs">
     <mxGraphModel dx="802" dy="652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#b47dca" math="0" shadow="1">
       <root>
@@ -221,6 +221,24 @@
         </mxCell>
         <mxCell id="JP2hXoU_zF4o3-1WAwiD-7" value="Individual project pages" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="88" y="447" width="92" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="JP2hXoU_zF4o3-1WAwiD-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontColor=#FFCCFF;strokeColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="532.63" y="146" as="sourcePoint" />
+            <mxPoint x="464.63" y="175" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530.63" y="146" />
+              <mxPoint x="523.63" y="156" />
+              <mxPoint x="512.63" y="162" />
+              <mxPoint x="494.63" y="173" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JP2hXoU_zF4o3-1WAwiD-9" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="496" y="51" width="145" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="JP2hXoU_zF4o3-1WAwiD-10" value="Available in two styles; desktop or mobile version" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="522" y="91" width="97" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
