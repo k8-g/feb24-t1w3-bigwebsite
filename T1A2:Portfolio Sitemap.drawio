@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-30T04:02:00.746Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="94OOzqoIP5H0f7-0im37" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-30T04:52:56.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="i3SCSgP8s_WqogckG6oE" version="24.2.1" type="github">
   <diagram name="Page-1" id="1yRaigYc3yj3IqJBVuUs">
     <mxGraphModel dx="802" dy="652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#b47dca" math="0" shadow="1">
       <root>
@@ -203,6 +203,24 @@
         </mxCell>
         <mxCell id="zVClSLXwrI54ClEM0Tne-58" value="&lt;b&gt;Project 1&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="313" y="379" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JP2hXoU_zF4o3-1WAwiD-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="558" y="394" width="35" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="JP2hXoU_zF4o3-1WAwiD-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="609" y="403" width="150" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="JP2hXoU_zF4o3-1WAwiD-4" value="Individual blog pages" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="641" y="447" width="92" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="JP2hXoU_zF4o3-1WAwiD-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="216" y="394" width="35" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="JP2hXoU_zF4o3-1WAwiD-6" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="56" y="403" width="150" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="JP2hXoU_zF4o3-1WAwiD-7" value="Individual project pages" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="88" y="447" width="92" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
