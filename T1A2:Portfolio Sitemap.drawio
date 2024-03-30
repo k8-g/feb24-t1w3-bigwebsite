@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T20:48:59.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1qzT9gj4VkGkgv480Ibr" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-30T04:02:00.746Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="94OOzqoIP5H0f7-0im37" version="24.2.1" type="github">
   <diagram name="Page-1" id="1yRaigYc3yj3IqJBVuUs">
-    <mxGraphModel dx="964" dy="638" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#b47dca" math="0" shadow="1">
+    <mxGraphModel dx="802" dy="652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#b47dca" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qFE32XwYqVBQK91fRqmA-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="275" y="250" width="110" height="88" as="geometry" />
+          <mxGeometry x="275" y="250" width="118" height="102" as="geometry" />
         </mxCell>
         <mxCell id="qFE32XwYqVBQK91fRqmA-9" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="250" width="110" height="88" as="geometry" />
@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zVClSLXwrI54ClEM0Tne-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="250" width="110" height="87" as="geometry" />
+          <mxGeometry x="425" y="250" width="110" height="103" as="geometry" />
         </mxCell>
         <mxCell id="zVClSLXwrI54ClEM0Tne-8" value="&lt;b&gt;Project 2&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="303" y="424" width="80" height="40" as="geometry" />
@@ -176,7 +176,7 @@
         </mxCell>
         <mxCell id="zVClSLXwrI54ClEM0Tne-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="339" as="sourcePoint" />
+            <mxPoint x="435" y="356" as="sourcePoint" />
             <mxPoint x="453" y="396" as="targetPoint" />
             <Array as="points">
               <mxPoint x="435" y="396" />
@@ -184,7 +184,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zVClSLXwrI54ClEM0Tne-52" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Projects&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="275" y="250" width="111" height="30" as="geometry" />
+          <mxGeometry x="278" y="252" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVClSLXwrI54ClEM0Tne-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Blog&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="425" y="250" width="111" height="30" as="geometry" />
@@ -195,11 +195,11 @@
         <mxCell id="zVClSLXwrI54ClEM0Tne-55" value="Links to contact me including GitHub &amp;amp; others" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="558" y="290" width="104" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="zVClSLXwrI54ClEM0Tne-56" value="Links to blog posts where I write about topics I&#39;m into" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="429" y="290" width="104" height="34" as="geometry" />
+        <mxCell id="zVClSLXwrI54ClEM0Tne-56" value="Overview of blogs which links to blog posts where I write about topics I&#39;m into" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="429" y="294" width="104" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="zVClSLXwrI54ClEM0Tne-57" value="Links to projects I&#39;ve done, where I talk about them" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="278" y="290" width="104" height="34" as="geometry" />
+        <mxCell id="zVClSLXwrI54ClEM0Tne-57" value="Overview of projects pages which links to projects I&#39;ve done, where I talk about them" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="278" y="296" width="112" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zVClSLXwrI54ClEM0Tne-58" value="&lt;b&gt;Project 1&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="313" y="379" width="60" height="30" as="geometry" />
